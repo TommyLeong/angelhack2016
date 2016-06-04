@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" CodeBehind="homepage.aspx.cs" Inherits="GrabAndGo.homepage" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/master.Master" AutoEventWireup="true" Async="true" CodeBehind="homepage.aspx.cs" Inherits="GrabAndGo.homepage" %>
 <asp:Content ID="PlaceHolder1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <div class="container-fluid">
 
@@ -150,6 +150,12 @@
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h3 class="panel-title"><i class="fa fa-clock-o fa-fw"></i>Tasks Panel</h3>
+                                    <asp:Button runat="server" ID="btnTest1" OnClick="btnTest1_OnClick" Text="Set"/>
+                                    <asp:Button runat="server" ID="btnTest2" OnClick="btnTest2_OnClick" Text="Push"/>
+                                    <asp:Button runat="server" ID="btnTest3" OnClick="btnTest3_OnClick" Text="Get"/>
+                                    <asp:Button runat="server" ID="btnTest4" OnClick="btnTest4_OnClick" Text="Update"/>
+                                    <asp:Button runat="server" ID="btnTest5" OnClick="btnTest5_OnClick" Text="Delete"/>
+
                                 </div>
                                 <div class="panel-body">
                                     <div class="list-group">

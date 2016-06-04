@@ -7,22 +7,22 @@ namespace GrabAndGo
 {
     public class BOPackage
     {
-        public string AcceptTime { get; set; }
-        public string CustomerId { get; set; }
-        public string Destination { get; set; }
-        public string DriverId { get; set; }
-        public string NoOfItem { get; set; }
-        public string Origin { get; set; }
-        public string PaymentId { get; set; }
-        public string PaymentStatus { get; set; }
-        public string Price { get; set; }
-        public string RequestTime { get; set; }
-        public string Status { get; set; }
-        public string Weight { get; set; }        
-        public string MinPrice { get; set; }
-        public string MaxPrice { get; set; }
-        public string FinalPrice { get; set; }
-        public string DriverPrice { get; set; }
+        public string acceptTime { get; set; }
+        public string customerId { get; set; }
+        public string destination { get; set; }
+        public string driverId { get; set; }
+        public string noOfItem { get; set; }
+        public string origin { get; set; }
+        public string paymentId { get; set; }
+        public string paymentStatus { get; set; }
+        public string price { get; set; }
+        public string requestTime { get; set; }
+        public string status { get; set; }
+        public string weight { get; set; }        
+        public string minPrice { get; set; }
+        public string maxPrice { get; set; }
+        public string finalPrice { get; set; }
+        public string driverPrice { get; set; }
 
     }
 }
