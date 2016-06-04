@@ -4,3 +4,9 @@ C:\Users\legio\Desktop\angelhack2016\GrabAndGo\GrabAndGo\bin\GrabAndGo.pdb
 C:\Users\legio\Desktop\angelhack2016\GrabAndGo\GrabAndGo\obj\Debug\GrabAndGo.csprojResolveAssemblyReference.cache
 C:\Users\legio\Desktop\angelhack2016\GrabAndGo\GrabAndGo\obj\Debug\GrabAndGo.dll
 C:\Users\legio\Desktop\angelhack2016\GrabAndGo\GrabAndGo\obj\Debug\GrabAndGo.pdb
+C:\Users\Tommy\Desktop\Github\angelhack2016\GrabAndGo\GrabAndGo\bin\GrabAndGo.dll.config
+C:\Users\Tommy\Desktop\Github\angelhack2016\GrabAndGo\GrabAndGo\bin\GrabAndGo.dll
+C:\Users\Tommy\Desktop\Github\angelhack2016\GrabAndGo\GrabAndGo\bin\GrabAndGo.pdb
+C:\Users\Tommy\Desktop\Github\angelhack2016\GrabAndGo\GrabAndGo\obj\Debug\GrabAndGo.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\Github\angelhack2016\GrabAndGo\GrabAndGo\obj\Debug\GrabAndGo.dll
+C:\Users\Tommy\Desktop\Github\angelhack2016\GrabAndGo\GrabAndGo\obj\Debug\GrabAndGo.pdb
